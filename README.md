@@ -1,5 +1,5 @@
  <h1 align="center">Hi there 👋</h1>
-    <hr width="60%">
+    <hr align="center" width="60%">
     <p align="center">
         <a href="https://www.facebook.com/vjetnodejs"><img width="200px" height="200px" src="logo.png"
                 alt="Nguyễn Hữu Hòa"></a>
