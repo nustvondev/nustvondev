@@ -1,6 +1,6 @@
  <h1 align="center">Hi there 👋</h1>
     <p align="center">
-        <a href="https://www.facebook.com/vjetnodejs"><img width="50px" height="50px" src="logo.png"
+        <a target="_blank" href="https://www.facebook.com/vjetnodejs"><img width="50px" height="50px" src="logo.png"
                 alt="Nguyễn Hữu Hòa"></a>
     </p>
     <h3 align="center">👨‍💻 My name 's Hoa</h3>
