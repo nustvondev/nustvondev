@@ -11,6 +11,8 @@
     <h3 align="center">🌱 Learning algorithms, making some projects using Nodejs, Go, . . .</h3>
     <p align="center" style="margin-bottom: 20px">
         <br>
+<br>
+<p align="center">
 <a href="https://www.linkedin.com/in/vjetgolang/" target="_blank"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Truy cập Linkedin"/></a>
 <a href="https://www.linkedin.com/in/vjetgolang/" target="_blank"><img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://stackexchange.com/users/19573418/vjet-node-js" target="_blank"><img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Truy cập Stackoverflow"/></a>
@@ -24,5 +26,4 @@
 <img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 <img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 <img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
-<br>
-<br>
+    </p>
