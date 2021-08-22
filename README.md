@@ -12,6 +12,8 @@
     <p align="center" style="margin-bottom: 20px">
         <br>
 <br>
+ <p><img src="https://github-readme-stats.vercel.app/api?username=huuhoa2309&show_icons=true&theme=nightowl"></img></p>
+ <br>
 <p align="center">
 <a href="https://www.linkedin.com/in/vjetgolang/" target="_blank"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Truy cập Linkedin"/></a>
 <a href="https://www.linkedin.com/in/vjetgolang/" target="_blank"><img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
