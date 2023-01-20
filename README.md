@@ -12,7 +12,7 @@
     <p align="center" style="margin-bottom: 20px">
         <br>
 <br>
- <p><img src="https://github-readme-stats.vercel.app/api?username=nustvondev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"></img></p>
+ <p><img src="https://github-readme-stats-huuhoa2309.vercel.app/api?username=nustvondev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&locale=vi"></img></p>
  <br>
 <p align="center">
 <a href="https://www.linkedin.com/in/vjetgolang/" target="_blank"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Truy cập Linkedin"/></a>
