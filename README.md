@@ -12,7 +12,7 @@
     <p align="center" style="margin-bottom: 20px">
         <br>
 <br>
- <p><img src="https://github-readme-stats-huuhoa2309.vercel.app/api?username=nustvondev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"></img></p>
+ <p><img src="https://github-readme-stats-huuhoa2309.vercel.app/api?username=nustvondev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff "></img></p>
  <br>
  <br>
  <p><img src="https://github-readme-stats-huuhoa2309.vercel.app/api/top-langs/?username=nustvondev&layout=compact&locale=vi"></img></p>
