@@ -6,12 +6,16 @@
     <h3 align="center">👨‍💻 My name 's Hoa</h3>
     <h3 align="center">🔭 Currently working on Hutech University</h3>
     <h3 align="center">💬 Contact me: <a href="mailto:vjetnodestudio@gmail.com">
-            vjetnodestudio@gmail.com
+            hoahuunguyen.dev@gmail.com
         </a></h3>
     <h3 align="center">🌱 Learning algorithms, making some projects using Nodejs, Go, . . .</h3>
     <p align="center" style="margin-bottom: 20px">
         <br>
 <br>
+     <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/nustvondev/count.svg" />
+</p>
  <p><img src="https://github-readme-stats-huuhoa2309.vercel.app/api?username=nustvondev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"></img></p>
  <br>
  <br>
